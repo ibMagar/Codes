@@ -1,0 +1,10 @@
+// write a cpp program to find the volume of a cube , cylinder, rectangular using function overloading 
+// create a class distance with feet and inches as two data members , Define the necessary member function to get the data of two distance
+// objects from user and both the object of distance and display the result by using friend function.
+
+
+--> Static Data Variables inside classes
+
+
+
+// set variable ,  read the data inside the private and show data inside the public section 

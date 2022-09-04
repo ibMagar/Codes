@@ -1,0 +1,18 @@
+When 0 is addedd to the virtual it is pure virtual function.
+Sometimes, a function in the base class serves like a placeholder such functions are called do-nothing fun.
+
+pure virtual functions are also called abstract functions.
+A pure virtual function is declared in a base class that has no definition relative to the base class
+The compiler required each derived class to either define the function or redeclare it as pure virtual function. 
+A class defining containing pure virtual function cannot be used to declare any objects of its own. 
+Such classes are called abstract classes.
+A class with atleast one pure virtual function is called abstract class.
+
+
+
+// Abstract class
+Abstract class cannot be instantiated.
+It can have normal function and variables along with pure virtual function.
+Classes inheritint abstract class must implement all pure virtual function or else they will become abstract too.
+
+cpp program to demonstrate pure virtual function

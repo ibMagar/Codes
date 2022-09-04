@@ -1,0 +1,11 @@
+//
+// Object and instance of an class
+// constructors cannot be virtual 
+// we cannot refer to the constructor address
+// an object with constructors cannot be used as a member of the union
+// they make implicit call to the operators new and delete when memory allocation is required.
+// when a constructor is declared for a class, initialization of the class objects becomes mandatory.
+// when a constructor is not declared in a class, automatically compiler creates an implicit default constructor.
+// If a default constructor explicitly returning the program, than the implicit default constructor is overriden
+//
+

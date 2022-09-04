@@ -1,0 +1,15 @@
+// write a c++ program to find the volume of a cube by creating a member function and create three objects 
+// for the class 
+// first object --> initialize directly
+// second --> by using member functin
+// third--> by using parameterized function
+
+
+
+// ** Write a program to print the sum and difference of two complex numbers with two separate functions for each operation whose 
+// real and imaginary paths are entered by the user
+//
+//** Write a program by creating an employee class having the following functions and print the final salary.
+// ** getinfo() which take salary and number of hours of work per day.
+// ** addSalary() which adds 1000 ruppes to the salary if the employee salary is less than 10,000.
+//** add work() which add 500 rupees to the salary  of employee if the number of hours of work is more than 8
